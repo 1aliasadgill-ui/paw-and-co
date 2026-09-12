@@ -1,0 +1,1 @@
+ALTER TABLE `categories` ADD `kind` text DEFAULT 'department' NOT NULL;
